@@ -1,4 +1,5 @@
 #Churrascômetro
->Calculador de quantidade usando Javascript
+>Projeto de cálculo feito com javascript, HTML e CSS.
 
-Calcule a quantidade de carne e bebida necessária para um churrasco. É levado em consideração a quantidade de pessoas e tempo do evento.
+##Gif da interface
+![](https://github.com/RodJunio/RodJunio.io.churrascometro/blob/main/img/gif%20interface.gif)
